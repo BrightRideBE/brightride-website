@@ -45,11 +45,6 @@ img {
     border-bottom: 2px solid #d4a017;
 }
 
-.logo,
-.logo img {
-    height: 100%;
-}
-
 .logo {
     display: flex;
     align-items: center;
